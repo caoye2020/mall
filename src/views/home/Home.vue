@@ -117,6 +117,7 @@
                 //console.log(this.tabOffsetTop)
                 if(this.tabOffsetTop<510){
                     this.tabOffsetTop=510;
+                    console.log('')
                 }
             }
         },
