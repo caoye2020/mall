@@ -29,10 +29,10 @@
 </script>
 <style>
    .recommend{
-      margin-top: 50px;
+      margin-top: 5px;
       display: flex;
       width: 100%;
-      padding-bottom: 15px;
+   /*   padding-bottom: 15px;*/
       box-shadow: 0px 10px 2px #eeeeee;
    }
   .recommend-item{
